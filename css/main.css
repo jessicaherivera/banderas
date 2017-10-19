@@ -1,0 +1,112 @@
+.bandera1{
+  background-color: orange;
+  height: 100px;
+  padding: 5px;
+  margin: 5px;
+}
+.bandera2 {
+  background-color: black;
+  height: 100px;
+  padding: 5px;
+  margin: 5px;
+
+}
+.bandera3{
+  background-color: orange;
+  height: 100px;
+  padding: 5px;
+  margin: 5px;
+}
+.letra{
+  color: white;
+}
+
+.cuadro1 {
+  background-color: orange;
+  height: 100px;
+  width: 200px;
+  padding: 5px;
+  margin: 10px;
+}
+
+.cuadro2 {
+  background-color: black;
+  height: 100px;
+  width: 200px;
+  padding: 5px;
+  margin: 10px;
+}
+
+.cuadro3{
+  background-color: orange;
+  height: 100px;
+  width: 200px;
+  padding: 5px;
+  margin: 10px;
+}
+.letra1{
+  color: white;
+}
+
+.bloque1 {
+  background-color: orange;
+  height: 100px;
+  width: 200px;
+  padding: 5px;
+  margin: 10px;
+  display: inline-block;
+}
+
+.bloque2 {
+  background-color: black;
+  height: 100px;
+  width: 200px;
+  padding: 5px;
+  margin: 10px;
+  display: inline-block;
+}
+
+.bloque3{
+  background-color: orange;
+  height: 100px;
+  width: 200px;
+  padding: 5px;
+  margin: 10px;
+  display: inline-block;
+}
+.letter{
+  color: white;
+}
+
+.linea1{
+  background-color: orange;
+  height: 40px;
+  width:150px;
+
+  margin: 10px;
+  display: inline-block;
+}
+.linea2{
+  background-color: black;
+  height: 40px;
+  width: 50px;
+
+  margin: 10px;
+  display: inline-block;
+}
+.linea3{
+  background-color: orange;
+  height: 40px;
+  width:200px;
+
+  margin:10px;
+  display:inline-block;
+
+}
+.let{
+  color:white;
+text-align: center;
+}
+ .let2,.let3{
+   text-align: center;
+ }
